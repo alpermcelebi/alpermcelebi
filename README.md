@@ -2,9 +2,9 @@
 <h3 align="left">A junior computer engineering student at METU, Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpermcelebi&label=Profile%20views&color=0e75b6&style=flat" alt="alpermcelebi" /> </p>
-- 🇹🇷 Based in Ankara
-- 💻 Interested in Backend & ML
-- 🌱 I’m currently learning **Java Spring Boot**
+<p align="left">🇹🇷 Based in Ankara</p>
+<p align="left">💻 Interested in Backend & ML</p>
+<p align="left">🌱 I’m currently learning <strong>Java Spring Boot</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
