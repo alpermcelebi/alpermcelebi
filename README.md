@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Alper</h1>
-<h3 align="left">A junior computer engineering student at METU, Türkiye</h3>
+<h3 align="left">A junior computer engineering student at METU</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=alpermcelebi&label=Profile%20views&color=0e75b6&style=flat" alt="alpermcelebi" /> 
