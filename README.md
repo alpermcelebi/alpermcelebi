@@ -7,7 +7,6 @@
 
 <p align="left">🏠︎  Based in Ankara</p>
 <p align="left">💻 Interested in Backend & ML</p>
-<p align="left">🌱 I’m currently learning <strong>Java Spring Boot</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
