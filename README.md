@@ -5,8 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=alpermcelebi&label=Profile%20views&color=0e75b6&style=flat" alt="alpermcelebi" /> 
 </p>
 
-<p align="left">🏠︎  Based in Ankara</p>
-<p align="left">💻 Interested in Backend & ML</p>
+<p align="left">🏠︎ Based in Ankara</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
