@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alper
-🌱 A junior computer engineering student at METU<br>🏡 Based in Ankara, Türkiye<br>👨🏻‍💻 Eager to immerse himself in various realms of CS & engineering
+🌱 A junior computer engineering student at METU<br>🏡 and Part-time Developer at Turkish Airlines, Based in Ankara, Türkiye<br>👨🏻‍💻 Eager to immerse himself in various realms of CS & engineering
 
 
 ## 🌐 Socials:
