@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alper
-🌱 A junior computer engineering student at METU<br><br>👨🏻‍💻 Eager to immerse himself in various realms of CS & engineering
+🌱 A CS student at METU<br><br>👨🏻‍💻 Eager to immerse himself in various realms of CS & engineering
 
 
 ## 🌐 Socials:
