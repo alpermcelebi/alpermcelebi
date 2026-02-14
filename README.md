@@ -1,4 +1,10 @@
-# 👋 I'm Alper
-🌱 A computer engineering student at METU<br><br>👨🏻‍💻 Eager to immerse himself in various realms of CS & engineering
+# I'm Alper
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpermehmetcelebi/) 
+Computer Engineering student at METU.  
+I care about clarity, efficiency, and understanding how things work beneath the surface.
+
+
+[LinkedIn](https://www.linkedin.com/in/alpermehmetcelebi/)
+
+> "Science is what we understand well enough to explain to a computer. Art is everything else we do."
+> — Donald Knuth
